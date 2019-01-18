@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "QGKTVP392A.com.teslayun.CloudMonitor", 
+                "paths": ["*"]
+            }
+        ]
+    }
+}
